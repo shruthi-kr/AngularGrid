@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularGrid", "AngularGrid\AngularGrid.csproj", "{FC57CD1B-73D4-4D43-ADE4-80299F67BBEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularGrid.Tests", "AngularGrid.Tests\AngularGrid.Tests.csproj", "{4AAE5753-FAC5-453E-AF95-92432B52140E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC57CD1B-73D4-4D43-ADE4-80299F67BBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC57CD1B-73D4-4D43-ADE4-80299F67BBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC57CD1B-73D4-4D43-ADE4-80299F67BBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC57CD1B-73D4-4D43-ADE4-80299F67BBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AAE5753-FAC5-453E-AF95-92432B52140E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAE5753-FAC5-453E-AF95-92432B52140E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAE5753-FAC5-453E-AF95-92432B52140E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAE5753-FAC5-453E-AF95-92432B52140E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
